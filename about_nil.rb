@@ -33,6 +33,7 @@ class AboutNil < Neo::Koan
     # or
     #    obj == nil
     # Why?
+    # http://stackoverflow.com/questions/1972266/obj-nil-vs-obj-nil
   end
 
 end
